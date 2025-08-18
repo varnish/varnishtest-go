@@ -1,4 +1,4 @@
-module varnish/varnishtest-go
+module github.com/varnish/varnishtest-go
 
 go 1.24.6
 
